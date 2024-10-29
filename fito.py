@@ -1,3 +1,5 @@
+#Nama: Alfito Leonard_F55123060
+#Kelas: TI C
 a = [2, 4, 5, 21, 7, 5, 2, 2, 5]
 
 x = 2
